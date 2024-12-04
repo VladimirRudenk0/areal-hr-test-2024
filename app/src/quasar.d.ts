@@ -7,3 +7,5 @@
 //  this declaration also apply `quasar` own
 //  augmentations (eg. adds `$q` into Vue component context)
 /// <reference types="@quasar/app-vite" />
+
+// Todo зачем это? если не надо, то удали

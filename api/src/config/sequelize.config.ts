@@ -10,6 +10,7 @@ import { Passport } from '@models/passport.model';
 import { Address } from '@models/address.model';
 import { User } from '@models/user.model';
 
+// Todo использовать переменные из .env
 export const SequelizeConfig: SequelizeModuleOptions = {
   dialect: 'postgres',
   host: 'localhost',

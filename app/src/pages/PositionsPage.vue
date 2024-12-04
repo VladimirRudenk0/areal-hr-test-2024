@@ -66,6 +66,7 @@ import { getPositions, createPosition, updatePosition } from 'src/api';
 import { QTableColumn } from 'quasar';
 import { useQuasar } from 'quasar';
 import axios from 'axios';
+//Todo нет установки пакета в package.json
 import Joi from 'joi';
 
 const $q = useQuasar();

@@ -90,6 +90,9 @@ const newDepartment = ref<Department>({
 const editMode = ref(false);
 const editedDepartment = ref<Department | null>(null);
 
+// Todo Лучше вынести описание столбцов в отдельный файл и его импортировать. поправить везде
+
+
 const columns: QTableColumn[] = [
   {
     name: 'name',

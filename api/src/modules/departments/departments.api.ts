@@ -1,5 +1,6 @@
 import axios from 'axios';
 
+// Todo что это? и зачем тут ? вопрос для всех таких файлов в приложении api
 const API_URL = 'http://localhost:3000/departments';
 
 export const getDepartments = async () => {

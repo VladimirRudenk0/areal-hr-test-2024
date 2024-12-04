@@ -1,5 +1,8 @@
 node_modules
 .env
+#Todo что это и зачем в гитигноре?
 npx
+#Todo что это и зачем в гитигноре?
 pgmigrate.config.js
+#Todo зачем это в гитигноре?
 vite.config.js
