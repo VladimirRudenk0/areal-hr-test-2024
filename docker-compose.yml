@@ -6,7 +6,7 @@ services:
     container_name: areal-hr-test-2024-db
     restart: always
     ports:
-      - "5432:5432"
+      - "5500:5500"
     environment:
       - POSTGRES_USER=${PGUSER}
       - POSTGRES_PASSWORD=${PGPASSWORD}
